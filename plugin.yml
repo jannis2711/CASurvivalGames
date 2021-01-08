@@ -1,0 +1,9 @@
+name: SurvivalGames
+version: 1.0
+author: Jannis2711
+main: de.cyberanimals.survivalgames.sgmain
+
+commands:
+    setup:
+        description: Einrichtung des Servers
+        usage: /<command>
